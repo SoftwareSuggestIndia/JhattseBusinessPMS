@@ -1,19 +1,29 @@
 ---
-
-title: "Jhattse Business — All-in-One Hotel Management Platform for India"
+title: "Jhattse Business - All-in-One Hotel Management Platform for India"
 description: "Scalable PMS, channel manager, POS, housekeeping, booking engine, and compliance tools for hotels, resorts, and homestays in India."
 author: "Jhattse Business Team"
 date: "2026-01-03"
 version: "1.1"
-pricing: "Starts at ₹16,000 + 18% GST per year"
-contact:
+slug: "jhattse-hotel-management-platform"
+pricing: "Starts at INR 16,000 + 18% GST per year"
 
-* phone: "9634410412"
-* phone-alt: "7310722298"
-* website: "[https://business.jhattse.com/products/hotel-management-software](https://business.jhattse.com/products/hotel-management-software)"
-  tags: ["hotel-pms", "channel-manager", "pos", "booking-engine", "gst-compliant", "india-hospitality", "hotel-software"]
+contact_phone_primary: "9634410412"
+contact_phone_secondary: "7310722298"
+contact_website: "https://business.jhattse.com/products/hotel-management-software"
 
+repo: "github.com/SoftwareSuggestIndia/JhattseBusinessPMS"
+license: "proprietary"
+
+tags:
+  - hotel-pms
+  - channel-manager
+  - pos
+  - booking-engine
+  - gst-compliant
+  - india-hospitality
+  - hotel-software
 ---
+
 
 # Jhattse Business — Comprehensive Hotel Management Solution
 
